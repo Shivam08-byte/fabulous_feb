@@ -1,5 +1,4 @@
-# Coding Practice Journey README
-
+# Coding Practice Journey 
 ## Introduction
 
 Hello everyone! 👋 I am Shivam, and I am excited to embark on a new coding practice journey! I have decided to challenge myself by solving at least one Competitive Programming (CP) question every day for the next three months.
